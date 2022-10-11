@@ -23,6 +23,8 @@ const {ListNode} = require("../extensions");
  *   }
  * }
  */
+
+
 // function removeKFromList(/* l, k */) {
 //   throw new NotImplementedError('Not implemented');
 //   // remove line with error and write your code here
